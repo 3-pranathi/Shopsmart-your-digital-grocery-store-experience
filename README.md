@@ -5,5 +5,5 @@ project templates link:https://drive.google.com/drive/folders/1reNkSnfAhrfOUgymM
 Demo video link :https://drive.google.com/file/d/1OYTum5eOp_Y9CDPp16Ik4BI2FXawxJP8/view?usp=drivesdk
 
 
-Demo:https://drive.google.com/drive/folders/1zgwqHQ-bWpryEyDeLCoqV-op4LztjY2P?usp=sharing
+Code:https://drive.google.com/drive/folders/1zgwqHQ-bWpryEyDeLCoqV-op4LztjY2P?usp=sharing
  # Shopsmart-your-digital-grocery-store-experience
